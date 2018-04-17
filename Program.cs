@@ -3,14 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using everis.Ees.Proxy;
-using everis.Ees.Proxy.Core;
-using everis.Ees.Proxy.Services.Interfaces;
-using Everis.Ees.Entities;
 using System.Net;
 using System.Data.SqlClient;
 using System.Reflection;
-using everis.Ees.Proxy.Services;
 using Robot.Util;
 using System.IO;
 
